@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+.bg
+{
+    background: hsla(225, 78%, 59%, 1);
+
+    background: linear-gradient(315deg, hsla(225, 78%, 59%, 1) 0%, hsla(197, 85%, 51%, 1) 95%);
+    
+    background: -moz-linear-gradient(315deg, hsla(225, 78%, 59%, 1) 0%, hsla(197, 85%, 51%, 1) 95%);
+    
+    background: -webkit-linear-gradient(315deg, hsla(225, 78%, 59%, 1) 0%, hsla(197, 85%, 51%, 1) 95%);
+    
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#456FE8", endColorstr="#19B0EC", GradientType=1 );
+}
+.head
+{
+    font-family: 'Roboto', sans-serif;
+}
